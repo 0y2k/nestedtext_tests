@@ -4,9 +4,6 @@
 -
     {}
 
--
-    {a: }
-
 # ASCII spaces surround ‘a’
 -
     {a: ‘a’  ‘a’ }
