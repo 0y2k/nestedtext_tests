@@ -1,0 +1,2 @@
+**/*.json diff text=true
+**/*.nt diff text=true
